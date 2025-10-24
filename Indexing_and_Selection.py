@@ -11,7 +11,7 @@ print(set_of_num)
 print(array)
 print(array[array>5])
 my_matrix = [[1,3,2],[4,9,8],[8,5,7]]
-np_matrix= np.array(my_matrix)
+np_matrix = np.array(my_matrix)
 print(my_matrix)
 print(np_matrix)
 slice_matrix = np_matrix[:2,1:]
