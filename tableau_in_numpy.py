@@ -14,3 +14,4 @@ print(array2)
 print(np.arange(5,20))
 print(np.random.randint(0,50,(5,2)))
 print(np.random.randint(0,50,(5,2)))
+´np.su
