@@ -1,0 +1,2 @@
+sample,protein,target_mz,mz_tol,tR_sec,sigma_sec,amplitude,area,RSS,R2,D_m2_s,Rh_m,tau,Pe,tau_ok,Pe_ok,notes
+FKBP12_run1,FKBP12,1478,5,62.3,4.12,1200,12345,452.1,0.987,3.4e-11,3.2e-9,1.5,120,TRUE,TRUE,"dip-filled; fit R2=0.987"
